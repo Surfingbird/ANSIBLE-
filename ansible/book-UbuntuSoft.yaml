@@ -1,0 +1,8 @@
+---
+- hosts: ubuntu_server 
+  remote_user: root
+
+  tasks:
+
+  - name: Update APT-GET
+    shell: apt-get update

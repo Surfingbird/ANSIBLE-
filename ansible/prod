@@ -1,0 +1,16 @@
+[centos7]
+centos7_108 ansible_port=22 ansible_host=192.168.142.108 ansible_user=root ansible_ssh_private_key_file=/Users/andrey/.ssh/id_rsa
+
+[centos6]
+centos6_109 ansible_port=22 ansible_host=192.168.142.109 ansible_user=root ansible_ssh_private_key_file=/Users/andrey/.ssh/id_rsa
+
+[ubuntu_server]
+ubuntu_110 ansible_port=22 ansible_host=192.168.142.110 ansible_user=root ansible_ssh_private_key_file=/Users/andrey/.ssh/id_rsa
+
+
+
+
+
+
+
+
